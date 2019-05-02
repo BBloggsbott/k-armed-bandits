@@ -1,5 +1,5 @@
 # k-armed-bandits
-*Under Development. Current branch - data*<br>
+![Build status](https://api.travis-ci.org/BBloggsbott/k-armed-bandits.svg?branch=master)*Under Development. Current branch - data*<br>
 An implementation of "Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling".
 
 # References
